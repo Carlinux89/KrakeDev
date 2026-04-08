@@ -1,3 +1,4 @@
 Nombre: Carlos Chavez
-Edad: 36
 Hobby: Jugar Futbol
+Pelicula favorita: Spiderman
+Comida favorita: Pure de papa con carne
